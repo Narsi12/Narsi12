@@ -1,48 +1,87 @@
-<h1 align="center">Hey 👋 I'm Narsimha Chellaboina</h1>
+# Hi 👋 I'm Narsimha Chellaboina
 
-<p align="center">
-  🚀 Software Engineer | Backend & Cloud Developer | 3.3 YOE
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,azure,docker,kubernetes,kafka,linux,git&perline=5" />
-</p>
+🚀 **Software Engineer | Backend & Cloud Developer**  
+🐍 Python | Django | FastAPI | REST APIs | SQL | Azure  
+📍 India | 💼 3.3+ years of professional experience
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+I’m a **Software Engineer with 3.3 years of experience** specializing in building **scalable backend systems**, **RESTful APIs**, and **cloud-native applications**.
 
----
+I’ve worked extensively on:
+- Designing and developing **Python-based backend services**
+- Building secure and performant **Django REST APIs**
+- Working with **PostgreSQL** and complex SQL queries
+- Deploying and managing applications on **Azure Cloud**
+- Developing internal products to **reduce manual effort and improve efficiency**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" height="150" />
-</p>
+Currently, I’m strengthening my skills in **Data Engineering concepts**, **SQL optimization**, and **distributed systems**.
 
 ---
 
-## 🟡 Contribution Activity
+## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-</picture>
+### 💻 Backend & APIs
+- Python
+- Django, Django REST Framework
+- FastAPI
+- Flask
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### ☁️ Cloud & DevOps
+- Microsoft Azure (Function Apps, Blob Storage, App Services)
+- Docker
+- Kubernetes
+- Azure DevOps / CI-CD
+
+### 📊 Data & Streaming
+- Kafka
+- ETL (Extract, Transform, Load)
+- Grafana, PromQL, Loki
+
+### 🧰 Tools & Others
+- Git & GitHub
+- Linux (basic administration)
+- REST API Design
+- System Debugging & Performance Analysis
 
 ---
 
-⭐ *Building scalable backend systems & learning data engineering*
+## 📌 Key Projects
+
+### 🔹 Shift Allowance Tracker
+- Automated shift allowance processing using Excel uploads
+- Implemented month-over-month comparisons and dashboards
+- Built APIs for data filtering, downloads, and client summaries
+- Reduced manual processing effort significantly
+
+### 🔹 Translation Hub (Azure-based)
+- Developed multiple REST APIs using Django
+- Integrated Azure Blob Storage and Azure Function Apps
+- Implemented role-based authentication across services
+- Built reporting and export features using Pandas & SQL
+
+---
+
+## 📈 What I’m Currently Learning
+- Advanced SQL & Query Optimization
+- Data Engineering Fundamentals
+- Distributed Systems & Streaming (Kafka)
+- System Design for Backend Engineers
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 📫 Email: *(optional)*
+
+---
+
+⭐ *“Consistent learning + strong fundamentals = long-term growth”*
